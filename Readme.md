@@ -1,4 +1,4 @@
-
+<h1>Blank Wordpress Theme With Bootstrap 4 Included for bespoke web development
 <h2>Info</h2>
 This is a completely blank theme for developers who with Bootstrap 4 Alpha fully loaded so that they can kick straight into bespoke theme developoment with only the framework for guidance. 
 All Bootstrap framework settings are unchanged
